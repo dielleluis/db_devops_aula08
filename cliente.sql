@@ -1,6 +1,7 @@
 
 create table tbcliente(
 cpf varchar(11),
+rg varchar(8),
 nome varchar(100),
 end01 varchar(150),
 end02 varchar(150),
