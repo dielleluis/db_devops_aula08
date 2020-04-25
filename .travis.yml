@@ -4,7 +4,7 @@ python:
 
 before install:
   - python --version
-  - pip install -r requeriments.txt
+  - pip install -r requerements.txt
 
 script:
   - sqlfluff lint cliente.sql
