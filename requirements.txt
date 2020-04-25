@@ -7,3 +7,4 @@ pyparsing==2.4.7
 pytest==5.4.1
 six==1.14.0
 wcwidth==0.1.9
+sqlfluff==0.3.1
