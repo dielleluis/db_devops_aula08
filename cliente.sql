@@ -1,5 +1,5 @@
 
-create table tbCliente(
+create table tbcliente(
 cpf varchar(11),
 nome varchar(100),
 end01 varchar(150),
